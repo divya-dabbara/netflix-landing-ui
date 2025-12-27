@@ -17,6 +17,7 @@ A responsive Netflix landing page UI clone built using **HTML** and **CSS**, foc
 👉 https://netflix-landing-ui-blond.vercel.app
 
 ## 📁 Project Structure
+```
 netflix-landing-ui/
 ├── index.html
 ├── style.css
@@ -27,6 +28,7 @@ netflix-landing-ui/
 │       ├── bg.jpg
 │       └── logo.svg
 └── README.md
+```
 
 📌 Notes
 This project is created for learning and practice purposes to improve frontend UI development skills by recreating a real-world streaming platform landing page.
