@@ -14,7 +14,7 @@ A responsive Netflix landing page UI clone built using **HTML** and **CSS**, foc
 - CSS3 (Flexbox & Grid)
 
 ## 🌐 Live Demo
-👉 https://netflix-landing-ui-blond.vercel.app
+👉 https://streaminglandingui.netlify.app/
 
 ## 📁 Project Structure
 ```
